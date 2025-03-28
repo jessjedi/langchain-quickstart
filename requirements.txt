@@ -2,3 +2,10 @@ streamlit
 openai
 langchain
 langchain-community
+streamlit-audiorec
+hydralit_components
+requests
+time
+camera_input_live
+io
+
