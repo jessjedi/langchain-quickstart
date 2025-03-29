@@ -7,13 +7,6 @@ from io import StringIO
 st.set_page_config(page_title="Conversense")
 
 
-st.logo(
-    LOGO_URL_SMALL,
-    size = "large",
-    icon_image=None,
-)
-
-
 pg = st.navigation([st.Page("home.py"), st.Page("chat.py")])
 
 
