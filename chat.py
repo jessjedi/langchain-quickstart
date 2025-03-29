@@ -7,7 +7,7 @@ import requests
 import time
 from camera_input_live import camera_input_live
 
-st.image('/Users/jessicasnare/Desktop/Hack/Hack25.png', caption=None, width=200)
+
 st.title("Chat with Cashew!")
 image = camera_input_live()
 

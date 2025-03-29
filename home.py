@@ -7,4 +7,3 @@ if st.button("YES!"):
     st.balloons()
     st.subheader("Perfect! Let's get started. Click the Chat page to continue")
 
-st.image('/Users/jessicasnare/Desktop/Hack/Hack25.png', caption=None, width=200)

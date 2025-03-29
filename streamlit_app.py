@@ -4,7 +4,6 @@ from st_audiorec import st_audiorec
 import pandas as pd
 from io import StringIO
 
-LOGO_URL_SMALL = '/Users/jessicasnare/Desktop/Hack/Hack25.png'
 st.set_page_config(page_title="Conversense")
 
 
