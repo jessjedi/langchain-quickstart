@@ -1,8 +1,4 @@
 import streamlit as st
-from langchain.llms import OpenAI
-from st_audiorec import st_audiorec
-import pandas as pd
-from io import StringIO
 import requests
 import time
 from camera_input_live import camera_input_live
